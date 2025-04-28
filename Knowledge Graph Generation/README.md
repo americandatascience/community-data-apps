@@ -35,7 +35,7 @@ ANTHROPIC_API_KEY=your-anthropic-api-key
 
 1. Run the application:
 ```bash
-streamlit run app.py
+streamlit run app.py --server.port 5000
 ```
 
 2. Open your web browser and navigate to the provided URL (typically http://localhost:8501)

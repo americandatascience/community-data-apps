@@ -33,10 +33,10 @@ export AI21_API_KEY='your-api-key-here'
 
 1. Run the application:
 ```bash
-streamlit run app.py
+streamlit run app.py --server.port 5000
 ```
 
-2. Open your web browser and navigate to the provided URL (typically http://localhost:8501)
+2. Open your web browser and navigate to the provided URL (typically http://localhost:5000)
 
 3. Follow the on-screen instructions:
    - Choose a prompt template or write your own
