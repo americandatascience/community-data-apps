@@ -1,0 +1,6 @@
+gradio>=3.50.2
+sentence-transformers>=2.2.2
+datasets>=2.14.5
+torch>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
