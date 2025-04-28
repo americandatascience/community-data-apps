@@ -27,7 +27,7 @@ All applications in this repository can be easily reproduced and run in the Amer
 
 1. Visit [dashboard.amdatascience.com](https://dashboard.amdatascience.com)
 2. Create a new notebook server
-3. Clone this repository: `git clone https://github.com/yourorg/community-data-apps.git`
+3. Clone this repository: `git clone https://github.com/americandatascience/community-data-apps.git`
 4. Navigate to the application of your choice
 5. Follow the application's README instructions
 
