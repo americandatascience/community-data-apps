@@ -50,7 +50,7 @@ amds server start --server-name default --environment pytorch --compute amds-med
 amds servers start --server-name data-apps
 ```
 
-Connect to the Alph Editor for an enhanced development experience:
+Connect to the Alph Editor for an AI enhanced development experience:
 ```bash
 amds alph launch
 ```
